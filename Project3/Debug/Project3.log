@@ -1,0 +1,5 @@
+﻿  main.cpp
+d:\ch14\project3\main.cpp(27): warning C4804: '>': 作業中不安全的使用類型 'bool'
+  Rational.cpp
+  正在產生程式碼...
+  Project3.vcxproj -> D:\CH14\Debug\Project3.exe
